@@ -1,0 +1,35 @@
+@media (min-width: 768px) and (max-width: 1199px){
+	[class*="col-"]{
+		width: 100%
+	}
+	.kittie-init{
+		background-image: url(../../images/dawn.png);
+		
+	}
+	
+	.kitten1{
+		content: url(../../images/kitten-large.png);
+		padding: 53px;
+		margin-top: 16.500em;
+		margin-left: auto;
+		
+}
+}
+@media (max-width: 768px){
+	[class*="col-"]{
+		max-width: 100%
+	}
+	.kittie-init{
+		background-image: url(../../images/night.jpg);
+		
+	}
+	
+	.kitten1{
+		content: url(../../images/kitten-small.png);
+		padding: 53px;
+		margin-top: 16.500em;
+		margin-left: auto;
+		
+}
+}
+

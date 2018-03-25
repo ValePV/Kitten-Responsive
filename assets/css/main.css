@@ -1,0 +1,21 @@
+body{
+	margin:0;
+	padding: 0;
+}
+.kittie-init{
+	background-image: url(../../images/sunny-day.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	max-width: 100%;
+}
+.cont{
+	padding: 0;
+}
+
+.kitten1{
+	padding: 53px;
+	margin-top: 16.500em;
+	margin-left: 20em;
+}
+
